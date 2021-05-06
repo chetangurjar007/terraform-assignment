@@ -24,6 +24,7 @@ $  terraform plan
 
 step 3:-
 run below command to apply changes
+
 $ terraform apply
 ![image](https://user-images.githubusercontent.com/61050480/117344360-eee7f700-aec2-11eb-8571-321ddeae77b2.png)
  
