@@ -50,3 +50,19 @@ $  ssh -i key.pem  ec2-user@public-ip
 
 ![image](https://user-images.githubusercontent.com/61050480/117345032-b694e880-aec3-11eb-91e1-0977488c4bdd.png)
 
+====================================================================================================================================================================================================================================================================================================================================
+
+
+
+Now for installation of httpd server use httpd.yml file
+
+Configure your inventory file.
+use this command to run ansible playbook
+
+
+![image](https://user-images.githubusercontent.com/61050480/117348925-72f0ad80-aec8-11eb-8f16-956d9457c6d2.png)
+
+
+front page of httpd server after installation
+
+![image](https://user-images.githubusercontent.com/61050480/117349093-a3d0e280-aec8-11eb-8703-a5c9253ac0e0.png)
