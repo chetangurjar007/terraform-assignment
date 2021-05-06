@@ -60,7 +60,8 @@ Configure your inventory file.
 use this command to run ansible playbook
 
 
-![image](https://user-images.githubusercontent.com/61050480/117348925-72f0ad80-aec8-11eb-8f16-956d9457c6d2.png)
+![image](https://user-images.githubusercontent.com/61050480/117349297-dda1e900-aec8-11eb-939f-ffedd2c9095d.png)
+
 
 
 front page of httpd server after installation
