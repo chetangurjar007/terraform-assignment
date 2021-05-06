@@ -1,0 +1,12 @@
+- name: httpd webserver installation 
+  hosts: all
+  tasks:
+    - name: installation of httpd webserver
+      package:
+        name: httpd
+        state: latest
+    - name: httpd service start
+      service:
+        name: httpd
+        state: started
+        
