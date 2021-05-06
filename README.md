@@ -16,6 +16,8 @@ $ terraform init
 
 step 2:- 
 Try a dry run by using below command
+
+
 $  terraform plan
 
 ![image](https://user-images.githubusercontent.com/61050480/117343887-68331a00-aec2-11eb-9e02-c6ac2317d8fb.png)
