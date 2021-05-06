@@ -45,3 +45,8 @@ check ssh access by using access key and public ip.
 by using below command, replace accordingly
 
 $  ssh -i key.pem  ec2-user@public-ip
+
+
+
+![image](https://user-images.githubusercontent.com/61050480/117345032-b694e880-aec3-11eb-91e1-0977488c4bdd.png)
+
